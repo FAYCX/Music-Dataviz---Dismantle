@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+button {
+  display:box;
+  margin:5px;
+  width:80px;
+  height:40px;
+  color:white;
+  text-align:center;
+  font-size:15px;
+  background-color:black;
+}
+
+button:hover{
+  background-color:lightpink;
+  color:black;
+}
